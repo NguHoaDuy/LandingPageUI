@@ -1,0 +1,21 @@
+span.carousel-control-next-icon:after,span.carousel-control-prev-icon:after{
+  content: '';
+}
+
+span.carousel-control-prev-icon{
+    margin-right: 60%;
+    width: 15%;
+    height: 15%;
+}
+
+span.carousel-control-next-icon{
+    margin-left: 60%;
+    width: 15%;
+    height: 15%;
+}
+
+.responsive-img{
+ height: 38.2rem !important;
+ object-fit: cover;
+}
+
