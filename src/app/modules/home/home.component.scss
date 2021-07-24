@@ -81,7 +81,9 @@
 }
 
 .row {
-  margin-top: 5% !important;
+  margin-top: 5%;
+  margin-left: 0px !important;
+  padding-left: 0px !important;
 }
 
   .image-left {
@@ -115,5 +117,31 @@
   padding-top: 15%;
   padding-left: 20%;
   padding-right: 20%;
+}
+
+.card-1{
+  margin-left: 8em;
+}
+
+
+.bg{
+  margin-top: 0 !important;
+  background: #F8F8F9;
+  padding-bottom: 10em;
+}
+
+  .image-bg{
+    margin: 0px !important;
+    padding: 0px !important;
+    background-image: url( https://i.imgur.com/U56Y7Os.png);
+    height: 13rem;
+    width: 100% !important;
+    background-repeat:repeat-x;
+}
+
+
+.container-fluid{
+  margin: 0px;
+  padding: 0px;
 }
 
