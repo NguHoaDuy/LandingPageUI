@@ -27,7 +27,7 @@ import { MdbValidationModule } from 'mdb-angular-ui-kit/validation';
     HeaderComponent,
     NavComponent
   ],
-  exports:[NavComponent, HeaderComponent],
+  exports:[NavComponent, HeaderComponent, FooterComponent],
   imports: [
     CommonModule,
     MdbCarouselModule,
